@@ -91,8 +91,8 @@
             </a>
           </li>
           <?php } ?>
-          <li class="nav-header">RAPOR SISWA</li>
-          <li class="nav-item">
+          <li class="nav-header d-none">RAPOR SISWA</li>
+          <li class="nav-item d-none">
             <a href="pages/calendar.html" class="nav-link">
               <i class="nav-icon far fa-calendar-alt"></i>
               <p>
